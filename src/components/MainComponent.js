@@ -12,7 +12,7 @@ class Main extends Component {
 
         return(
       <div>
-       Test
+       Testing cross device development...
      </div>
         )
 
