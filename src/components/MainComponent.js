@@ -49,8 +49,8 @@ class Main extends Component {
         (Import choice 2)
       </Card.Text>
     </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+    <Card.Footer className='d-flex justify-content-center'>
+      <Button>Choice 1</Button>
     </Card.Footer>
   </Card>
   <Card>
@@ -63,8 +63,8 @@ class Main extends Component {
         show that equal height action.
       </Card.Text>
     </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+    <Card.Footer className='d-flex justify-content-center'>
+      <Button>Choice 1</Button>
     </Card.Footer>
   </Card>
 </CardGroup>
